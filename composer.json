@@ -4,7 +4,7 @@
   "keywords": [
     "beloop",
     "core",
-    "ecommerce"
+    "lms"
   ],
   "homepage": "https://github.com/beloop/CoreBundle",
   "type": "symfony-bundle",
